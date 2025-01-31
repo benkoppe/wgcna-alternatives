@@ -2,6 +2,8 @@
 
  The repository for a report done in 2023 on WGCNA alternatives.
 
+ See the final report [here](./final%20report/WGCNA%20Final%20Report.pdf)!
+
  Find the main workflow in the `workflow/` folder.
 
 ## How to run in Google Colab
